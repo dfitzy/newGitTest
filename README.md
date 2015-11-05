@@ -1,3 +1,3 @@
 # newGitTest
 
-Did it work?
+Great Scott! it did work.. ^ ^
